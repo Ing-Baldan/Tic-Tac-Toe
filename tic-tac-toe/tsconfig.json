@@ -18,8 +18,5 @@
     "skipLibCheck": true,
     "lib": ["ES2022", "DOM"],
     "types": []
-  },
-  "references": [
-    { "path": "tsconfig.app.json" }
-  ]
+  }
 }
